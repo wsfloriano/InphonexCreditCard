@@ -24,4 +24,13 @@ Execute os comandos:
 
 `` $ php artisan serve  ``
 
-No navegador, acesse o endereço http://127.0.0.1:8000/ para abrir o sistema, ou conforme suas configurações locais.
+
+Para testes execute o comando:
+
+``  $ ./vendor/bin/phpunit  ``  
+
+
+
+Arquivo da classe:
+
+``  app/CreditCard  ``
